@@ -27,17 +27,6 @@
 -------
 
 
-
--------
-
-## 👥 GitHub Presence
-
-- I have a total of 5 followers on GitHub, which indicates modest support and recognition from other users.
-- You can find my GitHub profile at [Anand Singh's GitHub Profile](https://github.com/AnandSingh), where all my repositories and contributions are available for exploration and collaboration.
-- Feel free to connect with me on LinkedIn as well: [Anand Singh's LinkedIn](https://www.linkedin.com/in/anand-singh-9a831595/)
-
--------
-
 ## 📊 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnandSingh) \
@@ -51,44 +40,12 @@
 
 Please feel free to reach out to me for any inquiries, collaborations, or networking opportunities:
 
-- Email: [anand@example.com](mailto:anand@example.com)
-- LinkedIn: [Anand Singh's LinkedIn](https://www.linkedin.com/in/anand-singh-9a831595/)
+- Email: [anand@example.com](mailto:hello@anandkrs.dev)
+- LinkedIn: [Anand Singh's LinkedIn](https://www.linkedin.com/in/anandkrs/)
 
 -------
 
-## 🌟 Thank you for visiting my GitHub profile!
 
-I hope you found my projects and insights interesting. Feel free to explore my repositories and reach out to me if you have any questions or opportunities for collaboration. Let's connect and create amazing things together!
-
-
- [link to my GitHub profile](https://github.com/AnandSingh)
-- Email: anand.singh@email.com
-
-I would be happy to connect## Hi there 👋,
-
-### I'm, collaborate Anand, and Singh, a passionate programmer with discuss exciting programming opportunities expertise in.
-
----
-
- Java, C,**Badges: C++, Python,**
-
-Here are some badges that and Rust demonstrate my.
-
--------
-
-## 🧐 skills and About
-
-- 🌍 achievements:
-
- GitHub User since July- Rust 201 Developer
-0.
-- Java Guru
-- 👨- C‍💻 Passionate/C++ Enthus about coding and exploringiast new technologies.
--
-- 🌱 Pythonista Interest in embedded systems,
-
-These computer vision badges reflect with machine my expertise learning, and open and experience-source projects in the.
-- 📚 Constant respective programming languages andly learning and upgrading my skills act as symbolic representations.
 
 -------
 
