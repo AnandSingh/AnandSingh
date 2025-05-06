@@ -26,4 +26,4 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSingh)](https://github.com/AnandSingh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSingh&layout=compact)](https://github.com/AnandSingh)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnandSingh&theme=gruvbox)](https://github.com/AnandSingh)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnandSingh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnandSingh)](https://github.com/AnandSingh)
