@@ -26,29 +26,7 @@
 
 -------
 
-## ✨ My Best Projects
 
-I have worked on various projects throughout my GitHub journey. Here are some of my best projects that showcase my skills and interests:
-
-### 1. eBayOrder
-
-[eBayOrder](https://github.com/AnandSingh/eBayOrder) is an automated Java program specifically designed for eBay sellers. It streamlines and automates various processes involved in managing sales orders, making it easier for sellers to handle their eBay business efficiently.
-
-### 2. rtl8822bu
-
-[rtl8822bu](https://github.com/AnandSingh/rtl8822bu) is a Linux project that aims to provide support for the RTL8822BU chipset on Linux systems. This project enables users to utilize the RTL8822BU chipset on their Linux machines, enhancing the compatibility and functionality of their systems.
-
-### 3. lpc54s018-sdk
-
-[lpc54s018-sdk](https://github.com/AnandSingh/lpc54s018-sdk) is an SDK project focused on the LPC54S018 microcontroller. It provides developers with the necessary tools and resources to develop applications and firmware for the LPC54S018 microcontroller, enabling them to harness the full potential of this powerful device.
-
-### 4. packages
-
-[packages](https://github.com/AnandSingh/packages) is a project related to OpenWrt/Gargoyle packages. It aims to enhance the functionality and performance of OpenWrt and Gargoyle systems by providing additional packages and features, making them more versatile and suitable for a wide range of applications.
-
-### 5. LimeSuiteNG
-
-[LimeSuiteNG](https://github.com/myriadrf/LimeSuite) is an open-source software project that focuses on providing basic functions for LimeSDR devices. I have contributed significantly to this project with 9 contributions, demonstrating my commitment to open-source collaboration and my understanding of collaborative programming practices.
 
 -------
 
